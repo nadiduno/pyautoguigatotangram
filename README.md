@@ -10,7 +10,7 @@ Gato ao estilo tangram em paint com pyautogui
 
 <br />
 
-[![Watch the video](https://github.com/nadiduno/pyautoguigatotangram/blob/main/.github/ImgApp.gif)]
+![Watch the video](https://github.com/nadiduno/pyautoguigatotangram/blob/main/.github/ImgApp.gif)
 
 
 # Tecnologias
